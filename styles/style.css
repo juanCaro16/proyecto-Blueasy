@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:sans-serif;
+}
+
+header{
+    width: 100vw;
+    height: 7rem;
+    position: fixed;
+    z-index: 1;
+    background-color: #3b454dd6;
+}
+
+.title-header{
+    font-size: 2rem;
+    font-weight: bolder;
+}
+
+.nav-anclas{
+
+}
+
+.section-1{
+    width: 100vw;
+    height: 75vh;
+    background-image: url(../images/Fondo.png);
+}
